@@ -1,7 +1,8 @@
-![dashboard](./client/src/images/dashboard.JPG)
-![filter](./client/src/images/filterCat.JPG)
-![search](./client/src/images/search.JPG)
-![edit](./client/src/images/New_edit.JPG)
+![dashboard](./dashboard.JPG)
+![filter](./filterCat.JPG)
+![search](./search.JPG)
+![new](./New_edit.JPG)
+
 
 ```Finance Tracker Application Project
 1. Login reg
@@ -24,7 +25,7 @@
 4. As a user I want to be able to filter the expenses by date range or month
 5. As a user I want to be able to see a chart of my expenses by category
 
-
+Working Progress on Login/reg:
 Login reg part 1- Pre requisites and basic project setup	https://youtu.be/kSo3Jzsa6DU
 Login reg part 2- Using mongoose virtuals to work with confirm password validations and to hash passwords before saving users to db	https://youtu.be/g_W7K_JYCKE
 Login reg part 3- Build out controllers register function in backend and test it using postman	https://youtu.be/XAN6m2hljaw
